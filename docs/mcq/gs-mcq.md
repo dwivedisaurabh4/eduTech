@@ -1,16 +1,13 @@
-# General Studies MCQs
+# सामान्य अध्ययन MCQ टेस्ट
 
-Add questions with the relevant date, source, and context where facts may change.
+यह सामान्य अध्ययन के लिए साझा MCQ टेस्ट क्षेत्र है। यह सामग्री TGT और PGT दोनों के लिए उपयोग की जाएगी।
 
-## Set 01
+## भारतीय इतिहास एवं स्वतंत्रता आंदोलन
 
-1. Add a general studies question here.
-   - A. Option one
-   - B. Option two
-   - C. Option three
-   - D. Option four
+इतिहास के विषयवार MCQ टेस्ट के लिए [भारतीय इतिहास एवं स्वतंत्रता आंदोलन](history/index.md) देखें। इस चरण में प्रश्न नहीं जोड़े गए हैं।
 
-??? success "Answer and explanation"
-    **Answer:** Add option. Include the source and date checked.
+## प्रश्न जोड़ने का प्रारूप
 
-**Score:** ___ / ___
+प्रश्न बाद में नियंत्रित बैचों में जोड़े जाएंगे। प्रत्येक प्रश्न के साथ उत्तर, संक्षिप्त व्याख्या, स्रोत और जाँच की तिथि रखें।
+
+**स्रोत:** आधिकारिक या विश्वसनीय स्रोत का URL जोड़ें।

@@ -66,7 +66,12 @@ def subject_nav(exam, state, subject):
     state_slug = slug(state)
     subject_slug = slug(subject)
     base = f"teacher-exams/{slug(exam['label'])}/{state_slug}/{subject_slug}"
-    return f"    - {subject}:\n      - Notes: {base}/notes.md\n      - MCQ Test: {base}/mcq-test.md"
+    if subject == "GK/GS" and exam["label"] in {"TGT", "PGT"}:
+        return "    - सामान्य अध्ययन:\n      - नोट्स: notes/gs/index.md\n      - MCQ टेस्ट: mcq/gs-mcq.md"
+    subject_label = "सामान्य अध्ययन" if subject == "GK/GS" else subject
+    notes_label = "नोट्स" if subject == "GK/GS" else "Notes"
+    mcq_label = "MCQ टेस्ट" if subject == "GK/GS" else "MCQ Test"
+    return f"    - {subject_label}:\n      - {notes_label}: {base}/notes.md\n      - {mcq_label}: {base}/mcq-test.md"
 
 
 def main():
