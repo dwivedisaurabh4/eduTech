@@ -442,6 +442,12 @@ nav:
           - भारतीय इतिहास एवं भारतीय स्वतंत्रता आंदोलन:
             - Overview: notes/gs/history/index.md
             - सिंधु घाटी सभ्यता: notes/gs/history/sindhu-ghati-sabhyata.md
+            - वैदिक काल: notes/gs/history/vaidik-kaal.md
+            - जैन धर्म: notes/gs/history/jain-dharm.md
+            - बौद्ध धर्म: notes/gs/history/bauddh-dharm.md
+            - महाजनपद काल: notes/gs/history/mahajanapada-kaal.md
+            - मौर्य साम्राज्य: notes/gs/history/maurya-samrajya.md
+            - गुप्त साम्राज्य: notes/gs/history/gupta-samrajya.md
           - प्रारंभिक नोट्स: notes/gs/chapter-01.md
       - MCQs:
         - Overview: mcq/index.md
