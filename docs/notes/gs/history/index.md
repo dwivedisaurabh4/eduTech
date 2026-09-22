@@ -14,9 +14,13 @@
 
 ## मध्यकालीन भारत
 
-- हर्ष एवं दक्षिण भारत
-- दिल्ली सल्तनत
-- मुगल साम्राज्य
+- [हर्षवर्धन](harshavardhan.md)
+- [दक्षिण भारत के प्रमुख राजवंश](dakshin-bharat-ke-rajvansh.md)
+- [राजपूत काल](rajput-kaal.md)
+- [दिल्ली सल्तनत](delhi-saltanat.md)
+- [विजयनगर एवं बहमनी राज्य](vijayanagar-bahmani.md)
+- [मुगल साम्राज्य](mughal-samrajya.md)
+- [मराठा शक्ति](maratha-shakti.md)
 - भक्ति एवं सूफी आंदोलन
 
 ## आधुनिक भारत
