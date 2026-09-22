@@ -25,9 +25,21 @@
 
 ## आधुनिक भारत
 
-- ब्रिटिश शासन
-- 1857 का विद्रोह
-- भारतीय स्वतंत्रता आंदोलन
+- [भारत में यूरोपीय शक्तियों का आगमन](europeans-in-india.md)
+- [अंग्रेजी ईस्ट इंडिया कंपनी और ब्रिटिश विस्तार](british-expansion.md)
+- [ब्रिटिश शासन की प्रशासनिक एवं आर्थिक नीतियाँ](british-administration-economy.md)
+- [सामाजिक एवं धार्मिक सुधार आंदोलन](social-religious-reform-movements.md)
+- [1857 का विद्रोह](1857-vidroh.md)
+- [भारतीय राष्ट्रवाद और भारतीय राष्ट्रीय कांग्रेस](indian-nationalism-congress.md)
+- [बंगाल विभाजन, स्वदेशी आंदोलन एवं उग्र राष्ट्रवाद](swadeshi-movement.md)
+- [गांधीजी और प्रारंभिक सत्याग्रह](gandhi-early-movements.md)
+- [असहयोग आंदोलन एवं सविनय अवज्ञा आंदोलन](non-cooperation-civil-disobedience.md)
+- [भारतीय क्रांतिकारी आंदोलन](revolutionary-movement.md)
+- [सुभाष चंद्र बोस एवं आजाद हिंद फौज](subhash-bose-ina.md)
+- [भारत छोड़ो आंदोलन](quit-india-movement.md)
+- [ब्रिटिश भारत का संवैधानिक विकास](constitutional-development.md)
+- [स्वतंत्रता, विभाजन एवं सत्ता हस्तांतरण](independence-partition.md)
+- [भारतीय स्वतंत्रता संग्राम — सम्पूर्ण Revision](bharatiya-swatantrata-sangram-revision.md)
 
 !!! note "पाठ्यक्रम संबंधी सूचना"
     ये विषय अध्ययन सामग्री को व्यवस्थित करने के लिए हैं। आधिकारिक शब्दावली [सामान्य अध्ययन पाठ्यक्रम](../../../syllabus/general-studies.md) में दी गई है।
