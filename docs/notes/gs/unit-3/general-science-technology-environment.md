@@ -32,7 +32,19 @@
 - अजैविक घटक: जल, वायु, मिट्टी, तापमान, प्रकाश।
 - उत्पादक, उपभोक्ता और अपघटक ऊर्जा-प्रवाह और पोषक-चक्र में भूमिका निभाते हैं।
 
-## 5. प्रदूषण: कारण, प्रभाव और नियंत्रण
+## 5. Food chain, food web और trophic levels
+
+**Food chain:** ऊर्जा और भोजन के संबंध का एक सरल क्रम है। उदाहरण: **घास → टिड्डा → मेंढक → साँप → बाज**।
+
+**Food web:** कई food chains के आपस में जुड़े होने से food web बनता है। इसलिए किसी ecosystem में एक जीव के कई food sources और predators हो सकते हैं।
+
+**Trophic levels** को इस flow से समझें:
+
+`उत्पादक → प्राथमिक उपभोक्ता → द्वितीयक उपभोक्ता → तृतीयक उपभोक्ता`
+
+ऊर्जा का मुख्य स्रोत सूर्य है। ऊर्जा एक trophic level से अगले level तक जाती है, लेकिन हर transfer पर ऊर्जा का बड़ा भाग metabolism और heat के रूप में खर्च हो जाता है। इसलिए ऊपरी trophic levels पर उपलब्ध ऊर्जा और biomass सामान्यतः कम होती है।
+
+## 6. प्रदूषण: कारण, प्रभाव और नियंत्रण
 
 | प्रकार | प्रमुख कारण | प्रभाव | नियंत्रण |
 | --- | --- | --- | --- |
@@ -41,7 +53,7 @@
 | मृदा | रसायन, ठोस कचरा | उर्वरता और भूजल पर प्रभाव | जैविक उपाय, waste segregation |
 | ध्वनि | यातायात, मशीनें | तनाव और श्रवण-हानि | noise limits, barriers, समय नियंत्रण |
 
-## 6. जलवायु और पर्यावरणीय अवधारणाएँ
+## 7. जलवायु और पर्यावरणीय अवधारणाएँ
 
 **Greenhouse effect** में वायुमंडलीय गैसें पृथ्वी से निकलने वाली ऊष्मा का कुछ भाग रोकती हैं। प्राकृतिक greenhouse effect जीवन के लिए आवश्यक है; इसकी वृद्धि global warming को बढ़ा सकती है।
 
@@ -51,18 +63,24 @@
 - **Acid rain:** SO2 और nitrogen oxides से बनी अम्लीय वर्षा।
 - **Weather:** अल्पकालीन मौसम दशा; **climate:** दीर्घकालीन औसत pattern।
 
+**Climate mitigation** greenhouse gas emissions को घटाने के उपाय हैं, जैसे renewable energy, energy efficiency और public transport। **Climate adaptation** बदलती जलवायु के प्रभावों के अनुरूप तैयारी है, जैसे heat action plans, drought-resistant crops और flood management।
+
 !!! tip "परीक्षा में भ्रमित न हों"
     Greenhouse effect प्राकृतिक प्रक्रिया है; excessive greenhouse effect और greenhouse gases की वृद्धि global warming से जुड़ती है। Ozone depletion को global warming का दूसरा नाम न समझें।
 
-## 7. संसाधन और संरक्षण
+## 8. Biodiversity, संसाधन और संरक्षण
 
 - Renewable resources: सूर्य, हवा, जल और जैव-ऊर्जा।
 - Non-renewable resources: कोयला, पेट्रोलियम और प्राकृतिक गैस।
 - Biodiversity: जीवों, genes और ecosystems की विविधता।
+- Biodiversity भोजन, औषधि, pollination, soil fertility और ecosystem stability के लिए महत्वपूर्ण है।
+- In-situ conservation में जीव अपने natural habitat में सुरक्षित रहते हैं; ex-situ conservation में zoo, seed bank या botanical garden जैसे स्थानों का उपयोग होता है।
 - Sustainable development: वर्तमान आवश्यकता पूरी करते हुए भविष्य की क्षमता को नष्ट न करना।
 - Waste management: reduce, reuse, recycle, segregation और सुरक्षित treatment।
 
-## 8. परीक्षा के लिए महत्वपूर्ण तथ्य
+संरक्षण के लिए habitat protection, प्रदूषण नियंत्रण, जल-संरक्षण, afforestation और sustainable consumption आवश्यक हैं।
+
+## 9. परीक्षा के लिए महत्वपूर्ण तथ्य
 
 - उत्पादक ecosystem में ऊर्जा-प्रवाह का आधार हैं।
 - ozone layer समतापमंडल में ultraviolet radiation को रोकने में सहायक है।
@@ -70,7 +88,7 @@
 - renewable का अर्थ असीमित या impact-free नहीं होता।
 - technology का मूल्यांकन लाभ के साथ उसके पर्यावरणीय प्रभाव से भी होना चाहिए।
 
-## 9. Quick revision table
+## 10. Quick revision table
 
 | तुलना | पहला concept | दूसरा concept |
 | --- | --- | --- |
@@ -79,7 +97,7 @@
 | समय | weather: अल्पकालीन | climate: दीर्घकालीन |
 | संसाधन | renewable: पुनः उपलब्ध हो सकते हैं | non-renewable: सीमित भंडार |
 
-## 10. Quick revision points
+## 11. Quick revision points
 
 - Technology वैज्ञानिक ज्ञान का उपयोग है।
 - Ecosystem में जैविक और अजैविक घटक होते हैं।

@@ -8,6 +8,7 @@
 
 | Technology | शिक्षा में उपयोग | लाभ | Limitation |
 | --- | --- | --- | --- |
+| Traditional aids | charts, models, real objects और demonstration | कम लागत, प्रत्यक्ष समझ | सीमित scale और storage |
 | Blackboard/chalk | लिखना, diagram, तत्काल explanation | सरल और सस्ता | static, classroom-bound |
 | Radio | audio lessons और दूरस्थ शिक्षा | बड़े क्षेत्र तक पहुँच | limited interaction |
 | Television/film | दृश्य-श्रव्य demonstration | difficult process दिखाना | one-way communication |
@@ -16,7 +17,7 @@
 | Internet education | e-content, websites, online courses | anytime access | connectivity और quality control |
 | Smart classroom | interactive display, digital content | visual interaction | training और maintenance |
 | LMS | course, assignment, assessment | organised tracking | login/accessibility issues |
-| MOOCs | large-scale online courses | flexible, व्यापक access | completion और interaction challenge |
+| MOOCs | large-scale online course | flexible, व्यापक access | completion और interaction challenge |
 | Virtual classroom | live online teaching | दूरस्थ real-time class | bandwidth और digital discipline |
 | Mobile learning | phone-based microlearning | portable access | distraction और screen size |
 | AI-based tools | adaptive practice, feedback, content support | personalisation | privacy, bias और teacher oversight |
@@ -37,6 +38,14 @@ Internet-based education में online resources, discussion, digital assessm
 - Flipped learning: content पहले self-study, classroom में discussion/practice।
 
 इन terms को केवल उपकरण नहीं, teaching model के रूप में समझें।
+
+| Term | मुख्य अर्थ | दूसरे से अंतर |
+| --- | --- | --- |
+| Blended learning | face-to-face और online learning का संयोजन | दोनों modes साथ चलते हैं |
+| Flipped learning | content पहले self-study, class में discussion/practice | classroom समय application के लिए |
+| Virtual classroom | online platform पर live interaction | real-time class |
+| LMS | course और learner progress management | platform/system, केवल class नहीं |
+| MOOC | बड़े समूह के लिए online course | scale और open access पर जोर |
 
 ## 6. AI-based educational tools
 

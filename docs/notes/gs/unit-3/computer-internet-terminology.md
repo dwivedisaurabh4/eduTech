@@ -23,21 +23,21 @@ RAM सामान्यतः volatile होती है; power बंद �
 
 | Term | Full form/अर्थ | आसान अर्थ |
 | --- | --- | --- |
-| Internet | interconnected networks | दुनिया भर के networks का जाल |
+| Internet | interconnected networks; कोई single official full form नहीं | दुनिया भर के networks का जाल |
 | WWW | World Wide Web | linked web pages की सेवा |
-| Website | web pages का समूह | किसी संस्था का online site |
-| Webpage | website का एक page | home/about page |
-| Browser | web access software | Chrome, Firefox आदि |
-| Search engine | web search service | Google, Bing आदि |
+| Website | web pages और resources का संगठित समूह; fixed full form नहीं | किसी संस्था का online site |
+| Webpage | website का एक page; fixed full form नहीं | home/about page |
+| Browser | web access software; fixed full form नहीं | Chrome, Firefox आदि |
+| Search engine | web search service; fixed full form नहीं | Google, Bing आदि |
 | URL | Uniform Resource Locator | web address |
 | HTTP | HyperText Transfer Protocol | web data transfer protocol |
 | HTTPS | HTTP Secure | encrypted web connection |
 | Domain | human-readable web name | example.com |
 | IP address | Internet Protocol address | network device का address |
 | DNS | Domain Name System | domain को IP से जोड़ता है |
-| Server | service/data देने वाला computer | website host |
-| Client | service माँगने वाला device/app | browser/user device |
-| Cloud | remote internet-based computing | online storage/service |
+| Server | service/data देने वाला computer या program; fixed full form नहीं | website host |
+| Client | service माँगने वाला device/app; fixed full form नहीं | browser/user device |
+| Cloud | remote internet-based computing; fixed full form नहीं | online storage/service |
 
 ## 3. Data और communication
 
@@ -50,6 +50,8 @@ RAM सामान्यतः volatile होती है; power बंद �
 - Bluetooth: कम दूरी का wireless device connection।
 - Cache: जल्दी access के लिए temporary stored data।
 - Cookie: website द्वारा browser में रखी छोटी data file; session/preferences के लिए।
+
+**Email (Electronic Mail):** internet के माध्यम से भेजा गया digital message। **Attachment** उसके साथ भेजी file है। **Hyperlink** दूसरे page/resource तक पहुँचाने वाला clickable link है। **Wi-Fi** wireless local networking technology है; यह कोई universally accepted full form नहीं है। **Bluetooth** कम दूरी के wireless connection का नाम है, standard full form नहीं।
 
 ## 4. Security awareness
 
@@ -65,6 +67,7 @@ HTTPS data transmission को encrypt करने में सहायक �
 | Website vs webpage | Website pages का समूह; webpage एक page |
 | Download vs upload | Download प्राप्त करना; upload भेजना |
 | HTTP vs HTTPS | HTTPS में secure/encrypted connection का प्रावधान |
+| Server vs Client | Server service देता है; client service माँगता/उपयोग करता है |
 
 ## 6. परीक्षा में पूछे जाने योग्य तथ्य
 

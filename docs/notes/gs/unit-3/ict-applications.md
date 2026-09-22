@@ -14,23 +14,33 @@ ICT का उपयोग digital classroom, LMS, online examination, e-books, 
 
 **LMS (Learning Management System)** course material, assignments, attendance और assessment को एक platform पर व्यवस्थित करता है।
 
+**उदाहरण:** विद्यार्थी LMS पर video lesson देखता, assignment upload करता और online feedback प्राप्त करता है।
+
 ## 3. शासन और public services
 
 **E-governance** में government services और information को digital माध्यम से नागरिकों तक पहुँचाया जाता है। Online certificates, portals, grievance systems और digital identity इसके उदाहरण हैं। Digital India जैसी पहलों का लक्ष्य digital infrastructure, services और digital literacy को बढ़ावा देना है।
 
 लाभ: transparency, reach, record keeping और समय की बचत। सीमा: privacy, cybersecurity, language और digital divide।
 
+**उदाहरण:** नागरिक online portal से certificate के लिए आवेदन करता और application status देखता है।
+
 ## 4. Banking और digital payment
 
 ICT ने ATMs, internet banking, mobile banking, electronic transfer और digital payments को संभव बनाया। Authentication, encryption और transaction records सुरक्षा के लिए आवश्यक हैं। OTP किसी को साझा न करना cyber safety का basic rule है।
+
+**उदाहरण:** UPI/mobile banking से merchant को payment भेजना digital payment है; bank account और transaction service इसका आधार है।
 
 ## 5. स्वास्थ्य
 
 Telemedicine, electronic health records, remote consultation, diagnostic systems और health-information portals स्वास्थ्य सेवाओं में ICT के उपयोग हैं। दूरस्थ क्षेत्रों में पहुँच बढ़ती है, लेकिन diagnosis के लिए trained professional और सुरक्षित data handling आवश्यक हैं।
 
+**उदाहरण:** दूरस्थ केंद्र का health worker video consultation के माध्यम से specialist से सलाह लेता है।
+
 ## 6. कृषि
 
 ICT आधारित weather information, market prices, remote sensing, soil testing, precision irrigation और farmer advisory services किसानों को निर्णय लेने में सहायता देते हैं। Technology स्थानीय भाषा, लागत और connectivity के अनुरूप होनी चाहिए।
+
+**उदाहरण:** किसान mobile advisory से वर्षा forecast और mandi price देखकर बुवाई या बिक्री का निर्णय लेता है।
 
 ## 7. Business, commerce और transportation
 
@@ -39,9 +49,22 @@ ICT आधारित weather information, market prices, remote sensing, soil 
 - Transportation: GPS, ticketing, traffic management और logistics।
 - Disaster management: early warning, satellite images, emergency communication और resource mapping।
 
+**उदाहरण:** online marketplace पर वस्तु चुनना और order करना e-commerce है; payment gateway से राशि भेजना digital payment है। GPS आधारित route planning transportation application है।
+
+### महत्वपूर्ण अंतर
+
+| Term | अर्थ | उदाहरण |
+| --- | --- | --- |
+| E-governance | सरकार की digital service delivery | online certificate portal |
+| E-commerce | online buying/selling | marketplace पर order |
+| Digital payment | electronic रूप में भुगतान | UPI, card, net banking |
+| Digital service | digital माध्यम से कोई service | online appointment या bill payment |
+
 ## 8. संचार और online learning
 
 Email, messaging, social platforms, webinars और video conferencing तेज communication देते हैं। Online learning में synchronous classes और asynchronous recorded content दोनों हो सकते हैं। ICT teacher को replace नहीं करता; यह teaching और learning को support करता है।
+
+**उदाहरण:** live video class synchronous है; recorded lecture जिसे learner अपनी सुविधा से देखे, asynchronous learning है।
 
 ## 9. लाभ और सावधानियाँ
 
