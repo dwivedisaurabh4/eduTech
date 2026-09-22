@@ -439,7 +439,9 @@ nav:
         - English: notes/english/chapter-01.md
         - सामान्य ज्ञान / सामान्य अध्ययन:
           - Overview: notes/gs/index.md
-          - भारतीय इतिहास एवं भारतीय स्वतंत्रता आंदोलन: notes/gs/history/index.md
+          - भारतीय इतिहास एवं भारतीय स्वतंत्रता आंदोलन:
+            - Overview: notes/gs/history/index.md
+            - सिंधु घाटी सभ्यता: notes/gs/history/sindhu-ghati-sabhyata.md
           - प्रारंभिक नोट्स: notes/gs/chapter-01.md
       - MCQs:
         - Overview: mcq/index.md
