@@ -1,8 +1,8 @@
-# Mathematics MCQ Test
+# गणित MCQ टेस्ट
 
-**Breadcrumb:** Home > Teacher Exams > TGT > UP TGT > Mathematics > MCQ Test
+**Breadcrumb:** Home > Teacher Exams > TGT > UP TGT > गणित > MCQ टेस्ट
 
-## UP TGT Mathematics
+## UP TGT गणित
 
 This is the mcq test area for **UP TGT Mathematics** preparation.
 
@@ -14,6 +14,6 @@ This is the mcq test area for **UP TGT Mathematics** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked notes page.
+- [ ] Review the linked नोट्स page.
 
-[Go to Notes](notes.md)
+[Go to नोट्स](notes.md)

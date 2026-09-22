@@ -1,8 +1,8 @@
-# English MCQ Test
+# अंग्रेज़ी MCQ टेस्ट
 
-**Breadcrumb:** Home > Teacher Exams > Junior Teacher > Rajasthan Junior Teacher > English > MCQ Test
+**Breadcrumb:** Home > Teacher Exams > Junior Teacher > Rajasthan Junior Teacher > अंग्रेज़ी > MCQ टेस्ट
 
-## Rajasthan Junior Teacher English
+## Rajasthan Junior Teacher अंग्रेज़ी
 
 This is the mcq test area for **Rajasthan Junior Teacher English** preparation.
 
@@ -14,6 +14,6 @@ This is the mcq test area for **Rajasthan Junior Teacher English** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked notes page.
+- [ ] Review the linked नोट्स page.
 
-[Go to Notes](notes.md)
+[Go to नोट्स](notes.md)

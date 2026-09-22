@@ -1,8 +1,8 @@
-# Biology MCQ Test
+# जीव विज्ञान MCQ टेस्ट
 
-**Breadcrumb:** Home > Teacher Exams > PGT > Delhi PGT > Biology > MCQ Test
+**Breadcrumb:** Home > Teacher Exams > PGT > Delhi PGT > जीव विज्ञान > MCQ टेस्ट
 
-## Delhi PGT Biology
+## Delhi PGT जीव विज्ञान
 
 This is the mcq test area for **Delhi PGT Biology** preparation.
 
@@ -14,6 +14,6 @@ This is the mcq test area for **Delhi PGT Biology** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked notes page.
+- [ ] Review the linked नोट्स page.
 
-[Go to Notes](notes.md)
+[Go to नोट्स](notes.md)

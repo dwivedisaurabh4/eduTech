@@ -1,6 +1,6 @@
-# Core Subjects MCQ Test
+# Core Subjects MCQ टेस्ट
 
-**Breadcrumb:** Home > Teacher Exams > Primary Teacher > UP Primary > Core Subjects > MCQ Test
+**Breadcrumb:** Home > Teacher Exams > Primary Teacher > UP Primary > Core Subjects > MCQ टेस्ट
 
 ## UP Primary Core Subjects
 
@@ -14,6 +14,6 @@ This is the mcq test area for **UP Primary Core Subjects** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked notes page.
+- [ ] Review the linked नोट्स page.
 
-[Go to Notes](notes.md)
+[Go to नोट्स](notes.md)

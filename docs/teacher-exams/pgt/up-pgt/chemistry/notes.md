@@ -1,8 +1,8 @@
-# Chemistry Notes
+# रसायन विज्ञान नोट्स
 
-**Breadcrumb:** Home > Teacher Exams > PGT > UP PGT > Chemistry > Notes
+**Breadcrumb:** Home > Teacher Exams > PGT > UP PGT > रसायन विज्ञान > नोट्स
 
-## UP PGT Chemistry
+## UP PGT रसायन विज्ञान
 
 This is the notes area for **UP PGT Chemistry** preparation.
 
@@ -14,6 +14,6 @@ This is the notes area for **UP PGT Chemistry** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked mcq test page.
+- [ ] Review the linked mcq टेस्ट page.
 
-[Go to MCQ Test](mcq-test.md)
+[Go to MCQ टेस्ट](mcq-test.md)

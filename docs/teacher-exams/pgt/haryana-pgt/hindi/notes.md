@@ -1,8 +1,8 @@
-# Hindi Notes
+# हिंदी नोट्स
 
-**Breadcrumb:** Home > Teacher Exams > PGT > Haryana PGT > Hindi > Notes
+**Breadcrumb:** Home > Teacher Exams > PGT > Haryana PGT > हिंदी > नोट्स
 
-## Haryana PGT Hindi
+## Haryana PGT हिंदी
 
 This is the notes area for **Haryana PGT Hindi** preparation.
 
@@ -14,6 +14,6 @@ This is the notes area for **Haryana PGT Hindi** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked mcq test page.
+- [ ] Review the linked mcq टेस्ट page.
 
-[Go to MCQ Test](mcq-test.md)
+[Go to MCQ टेस्ट](mcq-test.md)

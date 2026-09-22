@@ -1,8 +1,8 @@
-# Sanskrit MCQ Test
+# संस्कृत MCQ टेस्ट
 
-**Breadcrumb:** Home > Teacher Exams > Junior Teacher > Haryana Junior Teacher > Sanskrit > MCQ Test
+**Breadcrumb:** Home > Teacher Exams > Junior Teacher > Haryana Junior Teacher > संस्कृत > MCQ टेस्ट
 
-## Haryana Junior Teacher Sanskrit
+## Haryana Junior Teacher संस्कृत
 
 This is the mcq test area for **Haryana Junior Teacher Sanskrit** preparation.
 
@@ -14,6 +14,6 @@ This is the mcq test area for **Haryana Junior Teacher Sanskrit** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked notes page.
+- [ ] Review the linked नोट्स page.
 
-[Go to Notes](notes.md)
+[Go to नोट्स](notes.md)

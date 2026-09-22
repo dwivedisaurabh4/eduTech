@@ -1,8 +1,8 @@
-# GK/GS MCQ Test
+# सामान्य ज्ञान / सामान्य अध्ययन MCQ टेस्ट
 
-**Breadcrumb:** Home > Teacher Exams > Primary Teacher > Rajasthan Primary > GK/GS > MCQ Test
+**Breadcrumb:** Home > Teacher Exams > Primary Teacher > Rajasthan Primary > सामान्य ज्ञान / सामान्य अध्ययन > MCQ टेस्ट
 
-## Rajasthan Primary GK/GS
+## Rajasthan Primary सामान्य ज्ञान / सामान्य अध्ययन
 
 This is the mcq test area for **Rajasthan Primary GK/GS** preparation.
 
@@ -14,6 +14,6 @@ This is the mcq test area for **Rajasthan Primary GK/GS** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked notes page.
+- [ ] Review the linked नोट्स page.
 
-[Go to Notes](notes.md)
+[Go to नोट्स](notes.md)

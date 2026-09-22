@@ -1,6 +1,6 @@
-# Social Science MCQ Test
+# Social Science MCQ टेस्ट
 
-**Breadcrumb:** Home > Teacher Exams > TGT > Haryana TGT > Social Science > MCQ Test
+**Breadcrumb:** Home > Teacher Exams > TGT > Haryana TGT > Social Science > MCQ टेस्ट
 
 ## Haryana TGT Social Science
 
@@ -14,6 +14,6 @@ This is the mcq test area for **Haryana TGT Social Science** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked notes page.
+- [ ] Review the linked नोट्स page.
 
-[Go to Notes](notes.md)
+[Go to नोट्स](notes.md)

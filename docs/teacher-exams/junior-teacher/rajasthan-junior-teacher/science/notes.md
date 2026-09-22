@@ -1,6 +1,6 @@
-# Science Notes
+# Science नोट्स
 
-**Breadcrumb:** Home > Teacher Exams > Junior Teacher > Rajasthan Junior Teacher > Science > Notes
+**Breadcrumb:** Home > Teacher Exams > Junior Teacher > Rajasthan Junior Teacher > Science > नोट्स
 
 ## Rajasthan Junior Teacher Science
 
@@ -14,6 +14,6 @@ This is the notes area for **Rajasthan Junior Teacher Science** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked mcq test page.
+- [ ] Review the linked mcq टेस्ट page.
 
-[Go to MCQ Test](mcq-test.md)
+[Go to MCQ टेस्ट](mcq-test.md)

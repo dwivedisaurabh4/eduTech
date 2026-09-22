@@ -1,8 +1,8 @@
-# Sanskrit Notes
+# संस्कृत नोट्स
 
-**Breadcrumb:** Home > Teacher Exams > PGT > Delhi PGT > Sanskrit > Notes
+**Breadcrumb:** Home > Teacher Exams > PGT > Delhi PGT > संस्कृत > नोट्स
 
-## Delhi PGT Sanskrit
+## Delhi PGT संस्कृत
 
 This is the notes area for **Delhi PGT Sanskrit** preparation.
 
@@ -14,6 +14,6 @@ This is the notes area for **Delhi PGT Sanskrit** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked mcq test page.
+- [ ] Review the linked mcq टेस्ट page.
 
-[Go to MCQ Test](mcq-test.md)
+[Go to MCQ टेस्ट](mcq-test.md)

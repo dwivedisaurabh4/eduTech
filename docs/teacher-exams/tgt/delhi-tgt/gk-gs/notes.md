@@ -1,8 +1,8 @@
-# GK/GS Notes
+# सामान्य ज्ञान / सामान्य अध्ययन नोट्स
 
-**Breadcrumb:** Home > Teacher Exams > TGT > Delhi TGT > GK/GS > Notes
+**Breadcrumb:** Home > Teacher Exams > TGT > Delhi TGT > सामान्य ज्ञान / सामान्य अध्ययन > नोट्स
 
-## Delhi TGT GK/GS
+## Delhi TGT सामान्य ज्ञान / सामान्य अध्ययन
 
 This is the notes area for **Delhi TGT GK/GS** preparation.
 
@@ -14,6 +14,6 @@ This is the notes area for **Delhi TGT GK/GS** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked mcq test page.
+- [ ] Review the linked mcq टेस्ट page.
 
-[Go to MCQ Test](mcq-test.md)
+[Go to MCQ टेस्ट](mcq-test.md)

@@ -1,8 +1,8 @@
-# Mathematics Notes
+# गणित नोट्स
 
-**Breadcrumb:** Home > Teacher Exams > PGT > Haryana PGT > Mathematics > Notes
+**Breadcrumb:** Home > Teacher Exams > PGT > Haryana PGT > गणित > नोट्स
 
-## Haryana PGT Mathematics
+## Haryana PGT गणित
 
 This is the notes area for **Haryana PGT Mathematics** preparation.
 
@@ -14,6 +14,6 @@ This is the notes area for **Haryana PGT Mathematics** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked mcq test page.
+- [ ] Review the linked mcq टेस्ट page.
 
-[Go to MCQ Test](mcq-test.md)
+[Go to MCQ टेस्ट](mcq-test.md)

@@ -1,8 +1,8 @@
-# Mathematics MCQ Test
+# गणित MCQ टेस्ट
 
-**Breadcrumb:** Home > Teacher Exams > PGT > Haryana PGT > Mathematics > MCQ Test
+**Breadcrumb:** Home > Teacher Exams > PGT > Haryana PGT > गणित > MCQ टेस्ट
 
-## Haryana PGT Mathematics
+## Haryana PGT गणित
 
 This is the mcq test area for **Haryana PGT Mathematics** preparation.
 
@@ -14,6 +14,6 @@ This is the mcq test area for **Haryana PGT Mathematics** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked notes page.
+- [ ] Review the linked नोट्स page.
 
-[Go to Notes](notes.md)
+[Go to नोट्स](notes.md)

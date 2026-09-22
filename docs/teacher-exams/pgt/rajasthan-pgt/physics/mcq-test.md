@@ -1,8 +1,8 @@
-# Physics MCQ Test
+# भौतिक विज्ञान MCQ टेस्ट
 
-**Breadcrumb:** Home > Teacher Exams > PGT > Rajasthan PGT > Physics > MCQ Test
+**Breadcrumb:** Home > Teacher Exams > PGT > Rajasthan PGT > भौतिक विज्ञान > MCQ टेस्ट
 
-## Rajasthan PGT Physics
+## Rajasthan PGT भौतिक विज्ञान
 
 This is the mcq test area for **Rajasthan PGT Physics** preparation.
 
@@ -14,6 +14,6 @@ This is the mcq test area for **Rajasthan PGT Physics** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked notes page.
+- [ ] Review the linked नोट्स page.
 
-[Go to Notes](notes.md)
+[Go to नोट्स](notes.md)

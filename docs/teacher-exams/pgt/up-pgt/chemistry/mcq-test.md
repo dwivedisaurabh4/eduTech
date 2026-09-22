@@ -1,8 +1,8 @@
-# Chemistry MCQ Test
+# रसायन विज्ञान MCQ टेस्ट
 
-**Breadcrumb:** Home > Teacher Exams > PGT > UP PGT > Chemistry > MCQ Test
+**Breadcrumb:** Home > Teacher Exams > PGT > UP PGT > रसायन विज्ञान > MCQ टेस्ट
 
-## UP PGT Chemistry
+## UP PGT रसायन विज्ञान
 
 This is the mcq test area for **UP PGT Chemistry** preparation.
 
@@ -14,6 +14,6 @@ This is the mcq test area for **UP PGT Chemistry** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked notes page.
+- [ ] Review the linked नोट्स page.
 
-[Go to Notes](notes.md)
+[Go to नोट्स](notes.md)

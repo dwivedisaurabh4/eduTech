@@ -1,8 +1,8 @@
-# English Notes
+# अंग्रेज़ी नोट्स
 
-**Breadcrumb:** Home > Teacher Exams > PGT > Delhi PGT > English > Notes
+**Breadcrumb:** Home > Teacher Exams > PGT > Delhi PGT > अंग्रेज़ी > नोट्स
 
-## Delhi PGT English
+## Delhi PGT अंग्रेज़ी
 
 This is the notes area for **Delhi PGT English** preparation.
 
@@ -14,6 +14,6 @@ This is the notes area for **Delhi PGT English** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked mcq test page.
+- [ ] Review the linked mcq टेस्ट page.
 
-[Go to MCQ Test](mcq-test.md)
+[Go to MCQ टेस्ट](mcq-test.md)

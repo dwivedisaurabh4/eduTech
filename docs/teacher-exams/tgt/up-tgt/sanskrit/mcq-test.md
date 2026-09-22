@@ -1,8 +1,8 @@
-# Sanskrit MCQ Test
+# संस्कृत MCQ टेस्ट
 
-**Breadcrumb:** Home > Teacher Exams > TGT > UP TGT > Sanskrit > MCQ Test
+**Breadcrumb:** Home > Teacher Exams > TGT > UP TGT > संस्कृत > MCQ टेस्ट
 
-## UP TGT Sanskrit
+## UP TGT संस्कृत
 
 This is the mcq test area for **UP TGT Sanskrit** preparation.
 
@@ -14,6 +14,6 @@ This is the mcq test area for **UP TGT Sanskrit** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked notes page.
+- [ ] Review the linked नोट्स page.
 
-[Go to Notes](notes.md)
+[Go to नोट्स](notes.md)

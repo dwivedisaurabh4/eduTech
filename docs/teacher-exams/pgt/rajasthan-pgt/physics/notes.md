@@ -1,8 +1,8 @@
-# Physics Notes
+# भौतिक विज्ञान नोट्स
 
-**Breadcrumb:** Home > Teacher Exams > PGT > Rajasthan PGT > Physics > Notes
+**Breadcrumb:** Home > Teacher Exams > PGT > Rajasthan PGT > भौतिक विज्ञान > नोट्स
 
-## Rajasthan PGT Physics
+## Rajasthan PGT भौतिक विज्ञान
 
 This is the notes area for **Rajasthan PGT Physics** preparation.
 
@@ -14,6 +14,6 @@ This is the notes area for **Rajasthan PGT Physics** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked mcq test page.
+- [ ] Review the linked mcq टेस्ट page.
 
-[Go to MCQ Test](mcq-test.md)
+[Go to MCQ टेस्ट](mcq-test.md)

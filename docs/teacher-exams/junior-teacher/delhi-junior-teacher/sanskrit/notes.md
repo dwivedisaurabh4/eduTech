@@ -1,8 +1,8 @@
-# Sanskrit Notes
+# संस्कृत नोट्स
 
-**Breadcrumb:** Home > Teacher Exams > Junior Teacher > Delhi Junior Teacher > Sanskrit > Notes
+**Breadcrumb:** Home > Teacher Exams > Junior Teacher > Delhi Junior Teacher > संस्कृत > नोट्स
 
-## Delhi Junior Teacher Sanskrit
+## Delhi Junior Teacher संस्कृत
 
 This is the notes area for **Delhi Junior Teacher Sanskrit** preparation.
 
@@ -14,6 +14,6 @@ This is the notes area for **Delhi Junior Teacher Sanskrit** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked mcq test page.
+- [ ] Review the linked mcq टेस्ट page.
 
-[Go to MCQ Test](mcq-test.md)
+[Go to MCQ टेस्ट](mcq-test.md)

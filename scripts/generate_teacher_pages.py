@@ -25,6 +25,22 @@ CONFIG = {
     },
 }
 
+VISIBLE_SUBJECTS = {
+    "Hindi": "हिंदी",
+    "Sanskrit": "संस्कृत",
+    "English": "अंग्रेज़ी",
+    "Mathematics": "गणित",
+    "Physics": "भौतिक विज्ञान",
+    "Chemistry": "रसायन विज्ञान",
+    "Biology": "जीव विज्ञान",
+    "GK/GS": "सामान्य ज्ञान / सामान्य अध्ययन",
+}
+
+VISIBLE_KINDS = {
+    "Notes": "नोट्स",
+    "MCQ Test": "MCQ टेस्ट",
+}
+
 
 def slug(value):
     return value.lower().replace("/", "-").replace(" ", "-")
@@ -35,16 +51,23 @@ def write(path, text):
     path.write_text(text.strip() + "\n", encoding="utf-8")
 
 
+def visible_subject(subject):
+    return VISIBLE_SUBJECTS.get(subject, subject)
+
+
 def subject_page(exam, state, subject, kind):
     state_slug = slug(state)
     subject_slug = slug(subject)
-    title = f"{subject} {kind}"
+    subject_label = visible_subject(subject)
+    kind_label = VISIBLE_KINDS[kind]
     other = "MCQ Test" if kind == "Notes" else "Notes"
+    other_label = VISIBLE_KINDS[other]
+    title = f"{subject_label} {kind_label}"
     return f"""# {title}
 
-**Breadcrumb:** Home > Teacher Exams > {exam['label']} > {state} > {subject} > {kind}
+**Breadcrumb:** Home > Teacher Exams > {exam['label']} > {state} > {subject_label} > {kind_label}
 
-## {state} {subject}
+## {state} {subject_label}
 
 This is the {kind.lower()} area for **{state} {subject}** preparation.
 
@@ -56,9 +79,9 @@ This is the {kind.lower()} area for **{state} {subject}** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked {other.lower()} page.
+- [ ] Review the linked {other_label.lower()} page.
 
-[Go to {other}]({other.lower().replace(' ', '-')}.md)
+[Go to {other_label}]({other.lower().replace(' ', '-')}.md)
 """
 
 
@@ -67,10 +90,10 @@ def subject_nav(exam, state, subject):
     subject_slug = slug(subject)
     base = f"teacher-exams/{slug(exam['label'])}/{state_slug}/{subject_slug}"
     if subject == "GK/GS" and exam["label"] in {"TGT", "PGT"}:
-        return "    - सामान्य अध्ययन:\n      - नोट्स: notes/gs/index.md\n      - MCQ टेस्ट: mcq/gs-mcq.md"
-    subject_label = "सामान्य अध्ययन" if subject == "GK/GS" else subject
-    notes_label = "नोट्स" if subject == "GK/GS" else "Notes"
-    mcq_label = "MCQ टेस्ट" if subject == "GK/GS" else "MCQ Test"
+        return "    - सामान्य ज्ञान / सामान्य अध्ययन:\n      - नोट्स: notes/gs/index.md\n      - MCQ टेस्ट: mcq/gs-mcq.md"
+    subject_label = visible_subject(subject)
+    notes_label = VISIBLE_KINDS["Notes"] if subject == "GK/GS" else "Notes"
+    mcq_label = VISIBLE_KINDS["MCQ Test"] if subject == "GK/GS" else "MCQ Test"
     return f"    - {subject_label}:\n      - {notes_label}: {base}/notes.md\n      - {mcq_label}: {base}/mcq-test.md"
 
 

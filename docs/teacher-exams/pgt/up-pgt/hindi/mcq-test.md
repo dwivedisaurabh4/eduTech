@@ -1,8 +1,8 @@
-# Hindi MCQ Test
+# हिंदी MCQ टेस्ट
 
-**Breadcrumb:** Home > Teacher Exams > PGT > UP PGT > Hindi > MCQ Test
+**Breadcrumb:** Home > Teacher Exams > PGT > UP PGT > हिंदी > MCQ टेस्ट
 
-## UP PGT Hindi
+## UP PGT हिंदी
 
 This is the mcq test area for **UP PGT Hindi** preparation.
 
@@ -14,6 +14,6 @@ This is the mcq test area for **UP PGT Hindi** preparation.
 - [ ] Match this topic with the official syllabus.
 - [ ] Add concise explanations and examples.
 - [ ] Add common mistakes and revision points.
-- [ ] Review the linked notes page.
+- [ ] Review the linked नोट्स page.
 
-[Go to Notes](notes.md)
+[Go to नोट्स](notes.md)
