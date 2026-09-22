@@ -21,7 +21,7 @@
 - [विजयनगर एवं बहमनी राज्य](vijayanagar-bahmani.md)
 - [मुगल साम्राज्य](mughal-samrajya.md)
 - [मराठा शक्ति](maratha-shakti.md)
-- भक्ति एवं सूफी आंदोलन
+- [भक्ति एवं सूफी आंदोलन](bhakti-sufi-movement.md)
 
 ## आधुनिक भारत
 

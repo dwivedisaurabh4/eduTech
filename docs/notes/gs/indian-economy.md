@@ -39,6 +39,10 @@
 
 सरल संबंध: `GNP = GDP + विदेश से शुद्ध कारक आय`, `NDP = GDP - depreciation`, `NNP = GNP - depreciation`।
 
+### सरल numerical example
+
+मान लें GDP = 1,000, विदेश से शुद्ध कारक आय = 100 और depreciation = 50। तब GNP = 1,100, NDP = 950 और NNP = 1,050 होगा। यदि nominal GDP 1,200 और उसी आधार पर real GDP 1,000 है, तो nominal value में price rise का प्रभाव भी शामिल है; केवल nominal GDP देखकर वास्तविक उत्पादन वृद्धि न निकालें।
+
 ### GDP और राष्ट्रीय आय मापन
 
 1. **उत्पादन/मूल्यवर्धन विधि:** विभिन्न क्षेत्रों का value added जोड़ना।
@@ -164,6 +168,10 @@ RBI की स्थापना 1935 में हुई और 1949 में 
 | Revenue deficit | नियमित आय से नियमित खर्च पूरा न होना |
 | Primary deficit | interest payment हटाने के बाद fiscal deficit |
 
+### deficits का numerical example
+
+मान लें कुल सरकारी expenditure 1,000, कुल receipts (borrowing छोड़कर) 700, revenue expenditure 600 और revenue receipts 500 हैं। Fiscal deficit = 300 और revenue deficit = 100 होगा। यदि interest payment 80 है, तो primary deficit = 300 - 80 = 220 होगा।
+
 Union Budget सरकार की receipts, expenditure, taxation और fiscal priorities का वार्षिक financial statement है।
 
 ## 12. कर व्यवस्था
@@ -234,15 +242,15 @@ Financial inclusion का अर्थ सभी वर्गों को bank
 
 | संस्था | स्थिति/उद्देश्य | प्रमुख कार्य |
 | --- | --- | --- |
-| RBI | केंद्रीय बैंक | मुद्रा, monetary policy, banking regulation |
-| SEBI | statutory securities regulator | securities market और investor protection |
-| NABARD | विकास वित्त संस्था | agriculture और rural credit/development |
-| SIDBI | statutory financial institution | MSME finance और development |
-| EXIM Bank | export-import finance institution | international trade finance |
-| NHB | housing finance से संबंधित संस्था | housing finance sector support |
-| NITI Aayog | government policy think tank | policy advice और cooperative federalism |
-| Finance Commission | संविधान अनुच्छेद 280 | कर-वितरण और grants की सिफारिश |
-| GST Council | संविधान अनुच्छेद 279A | GST संबंधी सिफारिशें |
+| RBI | केंद्रीय बैंक; RBI Act, 1934 के आधार पर | मुद्रा, monetary policy, banking regulation |
+| SEBI | statutory securities regulator; SEBI Act, 1992 | securities market और investor protection |
+| NABARD | NABARD Act, 1981 के अंतर्गत वैधानिक विकास बैंक | agriculture और rural credit/development |
+| SIDBI | SIDBI Act, 1989 के अंतर्गत वैधानिक वित्तीय संस्था | MSME finance और development |
+| EXIM Bank | Export-Import Bank of India Act, 1981 के अंतर्गत वैधानिक संस्था | international trade finance |
+| NHB | National Housing Bank Act, 1987 के अंतर्गत वैधानिक संस्था | housing finance sector development; HFC regulation RBI के वर्तमान framework के अधीन |
+| NITI Aayog | 2015 में गठित गैर-संवैधानिक policy think tank | policy advice और cooperative federalism |
+| Finance Commission | संवैधानिक संस्था, अनुच्छेद 280 | कर-वितरण और grants की सिफारिश |
+| GST Council | संवैधानिक संस्था, अनुच्छेद 279A | GST संबंधी सिफारिशें |
 
 ## 20. महत्वपूर्ण आर्थिक concepts
 
